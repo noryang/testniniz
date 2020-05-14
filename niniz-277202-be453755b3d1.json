@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "niniz-277202",
+  "private_key_id": "be453755b3d10491143db68fe433ab5c9be39328",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiKBC2NGRA8csm\nyhVEDPItQhRvdVLeBnXJfbFld6Pk2l0GWAdT4eKZ6JppGoyPxyLflh1nj+tOMtqc\nrfEC3tEbGsFcmsVbqT5iAhXPJgH5C+GZM9hi4wCVq5VHlu9aqsEjWYZOrUEJ3kfF\njnLXZAi2x6yLqJhQ8EZLe3qZF1ODojVqTD8VVAw84osP5+Iv4N+TDBkFEgkYyQvt\nuijli3j0YGd0pA+q9sqRNN51zO1ejH5B3mhlQyZ4hk4GsGXZ+QQfYfeELbXEZbyV\nWVBi3E0mJYcb4GDq7DYlvIkbjL7cQfPRoSnFar/O4IPM6xfTgPq9iYssUqXUT/sR\nyScP0+8DAgMBAAECggEACQZg07s7vy+V5m1F3Lk5u1IbsA5gE9JZOOMhfeu4N/L9\nTW6VzdHbGkTLX0EmhJQJOVdyAIMOjhYfe6vkp4u+KJuHGn/UryLOwYarLxHG91T1\nc+DiULKgpDPeBZN9c9bgE/cWFgfngESaSwEAHEPJhl67mDREcfDFgMr5Ck81izRj\ntv9epSa6UG2nlqLBpJBwO0MpJM1l6T67SVMwtk75moHzVT2l25naS1iYSrUsh2DM\nBuGP0TIa5GMaYGtSc4teKAI+1eyajyIV62c9NzOKzYNSUbrKlloiC3B2zuljASxW\n3EbjdvyGqQzI+IV8wVFdeoucqRJE8UXP+xTHcB4BvQKBgQDaya2xcPt7VmPSzcGl\ntFE1uooltsk9T5bT3xtGch4hmIzSENFTmyibvbyIJJLTW6PG0wel8oRPBShbSr1Q\n8+X8vrBbe+mKAP65XRmQjXGw66ssw/UZrHyg7VKcjWNyMUK5wZHW5PvoVsNwxu9D\nSGFxnT7rZP9yHSo16yNCKPnlPQKBgQC9vJUIf9vQgx16KMnRbY22bgthHOf+8Nc4\nykMUdTQlh01moh0ftQGZzylVjyHw/AsLL7ODQ3s2Tmo2SSXenrV1QtZBzCg0EEer\n1xERZJNsLtGI1mKAHmqAcMWRf7mAJP1UVsD68Y8L22ToQliGeeteCe5i800GVnwd\nc4R8FnDpPwKBgHgx+/5Td5UWrNiOuSfzm/nMdUCq3nuUUeQr2awl3W/Pgu2U16r6\nvqBw6DZTAWakHaGJJdaBGTbgOn+M29yxYVQs3m4j8PUj/syO3RCQ5Dix/+Qj828b\nV4yBVLU058FAVsv+D8TjH5FQuSYn5CIujXoBTSO85KkoZJwihcg/AqpxAoGAU8Rc\nb+IzI/2fF/3GDGY3uKEg+QEQE+g0vOffcbrFCQSRUYylGwiI6mUhtJp6u7ArGAc5\nU+yJC1LXZZwp0f1z049slKQT49iELAPJj0o+I/cPn0A3QKUtFAO11iTzuvWZupCK\npr/bDbsQ89HGz6goF95+lsUf7npkVYRYq4gk1XUCgYBlEi8UYS2xE2B4OXhrreZR\nN7tn95lUeG2NxYqlNwgzFZGHcjEc18xiWwnr8tG7IB+Py2RhwAmX/pZSiy1cAiah\n2n3qEhdQL9bpd3HMP+++2j5Fd28pNg8ffmz27PRRVbj51VPUBQ7B0NLS25GGjwPG\n14fRtke3neb643IFBqLdjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "niniz-dia@niniz-277202.iam.gserviceaccount.com",
+  "client_id": "118339049672866212060",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/niniz-dia%40niniz-277202.iam.gserviceaccount.com"
+}
