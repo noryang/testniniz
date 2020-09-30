@@ -1204,12 +1204,9 @@ class mainCog(commands.Cog):
 			command_list += ','.join(command[8]) + '\n'     #!명치
 			command_list += ','.join(command[9]) + '\n'     #!재시작
 			command_list += ','.join(command[10]) + '\n'     #!미예약
-			command_list += ','.join(command[11]) + ' [인원] [금액]\n'     #!분배
 			command_list += ','.join(command[12]) + ' [뽑을인원수] [아이디1] [아이디2]...\n'     #!사다리
 			command_list += ','.join(command[27]) + ' [아이디1] [아이디2]...(최대 12명)\n'     #!경주
-			command_list += ','.join(command[35]) + ' [판매금액] (거래소세금)\n'     #!수수료
-			command_list += ','.join(command[36]) + ' [거래소금액] [실거래금액] (거래소세금)\n'     #!페이백
-			command_list += ','.join(command[13]) + ' [아이디]\n'     #!정산
+			#command_list += ','.join(command[13]) + ' [아이디]\n'     #!정산
 			command_list += ','.join(command[14]) + ' 또는 ' + ','.join(command[14]) + ' 0000, 00:00\n'     #!보스일괄
 			command_list += ','.join(command[15]) + '\n'     #!q
 			command_list += ','.join(command[16]) + ' [할말]\n'     #!v
