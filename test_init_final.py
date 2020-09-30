@@ -1196,7 +1196,6 @@ class mainCog(commands.Cog):
 	async def menu_(self, ctx):
 		if ctx.message.channel.id == basicSetting[7]:
 			command_list = ''
-			command_list += ','.join(command[2]) + '\n'     #!설정확인
 			command_list += ','.join(command[3]) + '\n'     #!채널확인
 			command_list += ','.join(command[4]) + ' [채널명]\n'     #!채널이동
 			command_list += ','.join(command[5]) + ' ※ 관리자만 실행 가능\n'     #!소환
@@ -1216,16 +1215,6 @@ class mainCog(commands.Cog):
 			command_list += ','.join(command[16]) + ' [할말]\n'     #!v
 			command_list += ','.join(command[17]) + '\n'     #!리젠
 			command_list += ','.join(command[18]) + '\n'     #!현재시간
-			command_list += ','.join(command[24]) + '\n'     #!킬초기화
-			command_list += ','.join(command[25]) + '\n'     #!킬횟수 확인
-			command_list += ','.join(command[25]) + ' [아이디]\n'     #!킬
-			command_list += ','.join(command[26]) + ' [아이디]\n'     #!킬삭제
-			command_list += ','.join(command[33]) + ' [아이디] 또는 ' + ','.join(command[33]) + ' [아이디] [횟수]\n'     #!킬차감
-			command_list += ','.join(command[29]) + '\n'     #!아이템 목록 초기화
-			command_list += ','.join(command[30]) + '\n'     #!아이템 목록 확인
-			command_list += ','.join(command[30]) + ' [아이템] 또는 ' + ','.join(command[30]) + ' [아이템] [개수]\n'     #!아이템 목록 입력
-			command_list += ','.join(command[31]) + ' [아이템]\n'     #!아이템 목록에서 삭제
-			command_list += ','.join(command[32]) + ' [아이템] 또는 ' + ','.join(command[32]) + ' [아이템] [개수]\n'     #!아이템 차감
 			command_list += ','.join(command[19]) + '\n'     #!공지
 			command_list += ','.join(command[19]) + ' [공지내용]\n'     #!공지
 			command_list += ','.join(command[20]) + '\n'     #!공지삭제
